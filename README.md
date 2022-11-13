@@ -1,11 +1,11 @@
 # CopyFenBiComment
 
-复制粉笔app用户的评论到剪贴板中（长按评论）
+复制粉笔app用户的评论到剪贴板中
 
 # 如何使用
 
-长按评价
+长按评价后，点击“举报”
 
-![](https://raw.githubusercontent.com/zerorooot/CopyFenBiComment/main/demo.gif)
+注意：1.2版本仅支持粉笔app**6.16.54**。
 
-注意：仅在**6.16.37**、**6.16.39.32**版本测试过，其他版本大概率不行
+使用粉笔app**6.16.37**、**6.16.39.32**的用户请使用1.1版本
