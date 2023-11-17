@@ -6,8 +6,15 @@
 
 https://github.com/Xposed-Modules-Repo/github.zerorooot.copyfenbi/releases
 
-# 评论过滤
-## 介绍
+# 其他小功能
+## 跳过首页广告（默认开启）
+## 隐藏解析视频（默认关闭）
+### 介绍
+将答案解析视频隐藏
+### 开启
+在`/sdcard/Android/`下新建一个名为`sp`文件。
+## 评论过滤（默认关闭）
+### 介绍
 当评论中出现“上岸”或“点赞”关键字时，从以下文本中随机挑选一个进行替换
 ```text
 老师讲的真好
@@ -37,11 +44,13 @@ https://github.com/Xposed-Modules-Repo/github.zerorooot.copyfenbi/releases
 不错！全讲到了！棒棒棒！
 好
 ```
-## 使用
+### 开启
 在`/sdcard/Android/`下新建一个名为`dz`文件。
 
 # 注意
 
-当前版本(1.2.1)仅支持粉笔app**6.16.54**。
+当前版本(1.2.2)仅支持粉笔app**6.17.4**。
+
+粉笔app**6.16.54**请使用1.2.1
 
 粉笔app**6.16.37**、**6.16.39.32**请使用1.1
